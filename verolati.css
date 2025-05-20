@@ -277,11 +277,11 @@ a {
 }
 
 
-.tooltip:hover .tooltiptext .tooltip:active {
+.tooltip:hover .tooltiptext {
     visibility: visible;
 }
   
-.tooltip_nav:hover .tooltiptext_nav .tooltip:active {
+.tooltip_nav:hover .tooltiptext_nav {
     visibility: visible;
 }
 
@@ -304,7 +304,7 @@ a {
     right: 5px;  
 }
   
-.tooltip_nav:hover .tooltiptext_nav .tooltip:active {
+.tooltip_nav:hover .tooltiptext_nav {
     visibility: visible;
 }
 
