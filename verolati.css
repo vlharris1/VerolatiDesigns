@@ -290,7 +290,7 @@ a {
   }
   
 .tooltip_nav .tooltiptext_nav {
-    /* visibility: hidden; */
+    visibility: visible;
     display: none;
     width: 120px;
     background-color: black;
